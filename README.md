@@ -7,7 +7,7 @@
 Sou um estudante, atualmente estou aprendendo Ui design e programação
 Quero poder resolver os problemas das pessoas de forma que elas fiquem felizes:blush:
 
- :rocket:  &nbsp; Ainda estou estudando:sweat_smile:
+ :pencil2:  &nbsp; Ainda estou estudando:sweat_smile:
  <br/> :purple_heart: &nbsp; Buscando colaborar com o Ui design de projetos.
  <br/> :blush: &nbsp; Posso te ajudar com Ui design e um pouco sobre HTML e CSS.
  <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript
