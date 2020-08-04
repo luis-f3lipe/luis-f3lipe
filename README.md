@@ -3,7 +3,7 @@
 
 # Luis Felipe Morais de Araújo
 
-## Olá pessoal 👋
+## Olá pessoal :purple_heart:
 Sou um estudante, atualmente estou aprendendo Ui design e programação
 Quero poder resolver os problemas das pessoas de forma que elas fiquem felizes:blush:
 
