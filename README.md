@@ -4,10 +4,10 @@
 # Luis Felipe Morais de Araújo
 
 ## Olá pessoal 👋
-Sou um estudante, atualmente estou estudando Ui design e programação.
+Sou um estudante, atualmente estou aprendendo Ui design e programação.
 Quero poder resolver os problemas das pessoas de forma que elas fiquem felizes :blush:
 
- :rocket:  &nbsp; Estou trabalhando na **Rocketseat**
+ :rocket:  &nbsp; Ainda estou estudando :sweat_smile:.
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
  <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox
  <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript
