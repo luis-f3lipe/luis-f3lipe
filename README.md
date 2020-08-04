@@ -4,8 +4,8 @@
 # Luis Felipe Morais de Araújo
 
 ## Olá pessoal :purple_heart:
-Sou um estudante, atualmente estou aprendendo Ui design e programação
- <br/> Quero poder resolver os problemas das pessoas de forma que elas fiquem felizes:blush:
+Sou um estudante, atualmente estou aprendendo Ui design e programação e
+ <br/> quero poder resolver os problemas das pessoas de forma que elas fiquem felizes:blush:
 
  :pencil2:  &nbsp; Ainda estou estudando:sweat_smile:
  <br/> :purple_heart: &nbsp; Buscando colaborar com o Ui design de projetos
