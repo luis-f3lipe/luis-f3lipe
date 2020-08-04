@@ -1,6 +1,3 @@
-<img width="auto" src="/download/luazinha.jpg">
-
-
 # Luis Felipe Morais de Araújo
 
 ## Olá pessoal :purple_heart:
