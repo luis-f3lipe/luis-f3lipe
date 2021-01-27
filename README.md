@@ -8,4 +8,4 @@ Sou um estudante, atualmente estou aprendendo Ui design e programação.
  <br/> :blush: &nbsp; Posso te ajudar com Ui design e um pouco sobre HTML e CSS
  <br/> :computer: &nbsp; Minha stack: HTML, CSS e JavaScript
  <br/> 💬  &nbsp; Sobre mim: Adoro fazer design de apps/webs, jogo League of Legends e CS:GO, curto bastante programação
- <br/> :email: &nbsp; Entre em contato comigo: Linkedin(www.linkedin.com/in/luis-felipe-morais-de-araújo-2189a81b0/) Gmail(meuprotetor32@gmail.com)
+ <br/> :email: &nbsp; Entre em contato comigo: E-mail(meuprotetor32@gmail.com)
